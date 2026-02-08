@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711001733944",
+    "project_id": "mapping-app-ca388",
+    "storage_bucket": "mapping-app-ca388.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711001733944:android:da45673c020aa7f94cdfcd",
+        "android_client_info": {
+          "package_name": "com.example.mapping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdM4-MHW0ctvzHCYO1J32_ilE9l3ShMVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
