@@ -1,25 +1,25 @@
-# 📍 Mapping App (Flutter)
+#  Mapping App (Flutter)
 
 A Flutter application that provides **Google Maps integration**, **place search**, **directions**, and **phone authentication using Firebase**.  
 The app allows users to search for places, view routes, distance & duration, and authenticate securely using OTP.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📱 Phone Authentication using **Firebase OTP**
-- 🗺️ Google Maps integration
-- 🔍 Place search with **Google Places Autocomplete**
-- 📍 Get place location details
-- 🧭 Directions between two locations
-- 🕒 Display **distance & estimated time**
-- 📌 Custom markers & polylines
-- 🧠 Clean architecture using **Bloc (Cubit)**
-- 🌍 Get current location using Geolocator
+-  Phone Authentication using **Firebase OTP**
+-  Google Maps integration
+-  Place search with **Google Places Autocomplete**
+-  Get place location details
+-  Directions between two locations
+-  Display **distance & estimated time**
+-  Custom markers & polylines
+-  Clean architecture using **Bloc (Cubit)**
+-  Get current location using Geolocator
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 lib/
 ├── business__logic/
