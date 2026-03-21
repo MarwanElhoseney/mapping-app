@@ -39,7 +39,12 @@ lib/
 │ └── widgets/
 ├── app_router.dart
 └── main.dart
+
+## 📸 Screenshots
+
 ![Image](https://github.com/user-attachments/assets/f101a2c6-8b56-4e94-be5a-49a3138fc391)
+![Image](https://github.com/user-attachments/assets/f101a2c6-8b56-4e94-be5a-49a3138fc391)
+
 
 
 
